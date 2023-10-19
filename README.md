@@ -23,10 +23,10 @@
         <p> In my free time, I enjoy solving rubik's cubes and watching movies. I also love to skate and listen to music. Lastly, I'm commited to be a staple in my community and find ways to be a vessel for assistance.
      <section id="links">
         <h2>Links</h2>
-        <a href="www.linkedin.com/in/kayla-page-5094b0284">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/kayla-page-5094b0284/">LinkedIn</a>
         <a href="https://github.com/kayla-page">Github</a>
         <a href="https://docs.google.com/document/d/e/2PACX-1vRDxoKIpgJ5fwq3UdxymKtXYz-SD1ewLDmXAWd0Aupn6rzA3yScOzm39jUlsL4Ch9cac-m9T4H-n8_U/pub">Resume</a>
-        <a href="mailto:kaylapage5600@gmail.com">Send Email</a>
+        <a href="mailto:kaylapage5600@gmail.com">Email</a>
     </section>
      <section id="skills">
         <h2>Skills</h2>
