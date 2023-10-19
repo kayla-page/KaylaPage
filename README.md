@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -36,10 +35,8 @@
     </section>
     <section id="projects">
         <h2>Projects</h2>
-        </p><a href="https://kayla-page.github.io/KaylaPage/">Personal Website</a>This site you're on now!</p>
+        <a href="https://kayla-page.github.io/KaylaPage/">Personal Website</a>This site you're on now!
     </section>
     <footer>
         <p>&copy; 2023 Kayla Page</p>
     </footer>
-</body>
-</html>
