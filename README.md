@@ -21,7 +21,6 @@
         <h2>About Me</h2>
         <p>I'm a Computer Science student with a math minor at Gettysburg College. I have a passion for solving problems using technology and skilled in fundementals in computer science. I'm eager to learn to learn new things. I'm also a reliable team player and willing to help others when needed.
         <p> In my free time, I enjoy solving rubik's cubes and watching movies. I also love to skate and listen to music. Lastly, I'm commited to be a staple in my community and find ways to be a vessel for assistance.
-    </section>
      <section id="links">
         <h2>Links</h2>
         <a href="www.linkedin.com/in/kayla-page-5094b0284">LinkedIn</a>
