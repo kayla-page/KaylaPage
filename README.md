@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
 <html lang="en">
 <head>
     <meta charset="UTF-8">
