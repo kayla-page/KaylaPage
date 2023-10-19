@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffc0cb; /* Light pink background */
+    color: #ff69b4; /* Pink text color */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #ff69b4; /* Darker pink header background */
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    background-color: #ff69b4; /* Pink navigation background */
+    padding: 10px;
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff; /* White navigation links */
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: #ff69b4; /* Pink footer background */
+    padding: 10px;
+}
