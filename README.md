@@ -36,7 +36,6 @@
     <section id="projects">
         <h2>Projects</h2>
         <a href="https://kayla-page.github.io/KaylaPage/">Personal Website</a>This site you're on now!
-    </section>
     <footer>
         <p>&copy; 2023 Kayla Page</p>
     </footer>
